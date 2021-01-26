@@ -9,7 +9,7 @@
 <body id="detail">
 	<div class="p-wrapper">
 	<header>
-		<h1><a href="list.html">レストラン レビュ サイト</a></h1>
+		<h1><a href="list.php">レストラン レビュ サイト</a></h1>
 	</header>
 	<main>
 		<article class="detail">
@@ -62,7 +62,7 @@
 		<article class="entry">
 			<h2>レビュを書き込む</h2>
 			<section>
-				<form action="detail.html" method="post">
+				<form action="detail.php" method="post">
 					<table class="entry">
 						<tr>
 							<th>お名前</th>
